@@ -122,7 +122,7 @@ footer > p > a:visited {
     color: blue;
 }
 
-@media (min-width: 769px) {
+@media (min-width: 1024px) {
     body {
         height: auto;
         padding: 3rem 4rem 1rem 4rem;
